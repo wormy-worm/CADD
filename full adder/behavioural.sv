@@ -20,6 +20,6 @@ endmodule
 // always_comb
 // begin
 //    sum=a^b^cin;
-//    cout=(a&b)|((a^b)&cin);      or       cout=(a&b)|(b&cin)|(cin&a);;
+//    cout=(a&b)|((a^b)&cin);      or       cout=(a&b)|(b&cin)|(cin&a);
 // end
 // endmodule
